@@ -32,12 +32,13 @@
 - 게임화면 (쓰레기 이미지를 드래그하여 쓰레기 해결방법이 있는 곳으로 이동시킨다.)
 <img width="550" alt="게임화면3" src="https://github.com/2023-Ganzithon/Team19/assets/102502542/ae2703cd-a1ce-49ec-942c-192bf83827e6">
 
-- 잘못된 방법으로 처리하였을 경우
-<img width="550" alt="게임화면5" src="https://github.com/2023-Ganzithon/Team19/assets/102502542/cb780259-1731-4929-a04a-b4db46afb0a2">
-
-
 - 게임화면 (올바른 방법으로 처리하였을 경우)
 <img width="550" alt="게임화면4" src="https://github.com/2023-Ganzithon/Team19/assets/102502542/7e5fb0cc-0dce-454a-80b6-0ccd2bcae816">
+
+
+
+- 잘못된 방법으로 처리하였을 경우
+<img width="550" alt="게임화면5" src="https://github.com/2023-Ganzithon/Team19/assets/102502542/cb780259-1731-4929-a04a-b4db46afb0a2">
 
 
 - 기프티콘 샵
