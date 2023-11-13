@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Bunlihallae
+간지톤 19조 분리할래 프로젝트 공간입니다.
+홈 메인화면, 로그인페이지, 게임화면, 기프티콘샵, 마이페이지 구현
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+# 최종 프로젝트 발표물
+[분리할래? 제안서.pdf](https://github.com/2023-Ganzithon/Team19/files/13330617/default.pdf)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# 분리할래 프로젝트 최종 화면 캡처
+- 스타트 화면
+<img width="550" alt="스타트화면" src="https://github.com/2023-Ganzithon/Team19/assets/102502542/8b9aa6c8-cf91-40d2-9560-64e226e06033">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+- 로그인 화면
+<img width="550" alt="로그인화면" src="https://github.com/2023-Ganzithon/Team19/assets/102502542/aabdbd08-1f2a-4ed3-ac55-31c583bf47da">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+- 메인 화면
+<img width="550" alt="메인화면" src="https://github.com/2023-Ganzithon/Team19/assets/102502542/b20f678c-1378-4348-aec2-842a3d708008">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 게임화면 첫 실행 시
+<img width="550" alt="게임화면1" src="https://github.com/2023-Ganzithon/Team19/assets/102502542/ef3f2480-382c-446f-a27a-2e77a6d077bb">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+- 게임화면 Start
+<img width="550" alt="게임화면2" src="https://github.com/2023-Ganzithon/Team19/assets/102502542/2ad45bce-c070-4e05-b6e6-99f737e5afc7">
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- 게임화면 (쓰레기 이미지를 드래그하여 쓰레기 해결방법이 있는 곳으로 이동시킨다.)
+<img width="550" alt="게임화면3" src="https://github.com/2023-Ganzithon/Team19/assets/102502542/ae2703cd-a1ce-49ec-942c-192bf83827e6">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- 잘못된 방법으로 처리하였을 경우
+<img width="550" alt="게임화면5" src="https://github.com/2023-Ganzithon/Team19/assets/102502542/cb780259-1731-4929-a04a-b4db46afb0a2">
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+- 게임화면 (올바른 방법으로 처리하였을 경우)
+<img width="550" alt="게임화면4" src="https://github.com/2023-Ganzithon/Team19/assets/102502542/7e5fb0cc-0dce-454a-80b6-0ccd2bcae816">
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- 기프티콘 샵
+<img width="550" alt="기프티콘샵 화면" src="https://github.com/2023-Ganzithon/Team19/assets/102502542/04a0f2fd-a3b0-46e4-8f4b-73f42871e0f7">
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- 상품 상세페이지(상품 구매 시 마이페이지에서 내가 구매한 상품 확인가능)
+<img width="550" alt="기프티콘샵 상세페이지" src="https://github.com/2023-Ganzithon/Team19/assets/102502542/048f9a98-73fe-4c1e-b120-1f9c49ca496a">
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- 마이페이지
+<img width="550" alt="마이페이지화면" src="https://github.com/2023-Ganzithon/Team19/assets/102502542/7e5a422d-47a6-486b-83ba-f538dc5cbfe4">
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
